@@ -3,6 +3,7 @@ package addition;
 public class Test {
 	
 	private String name;
+	private int x;
 
 	public String getName() {
 		return name;
